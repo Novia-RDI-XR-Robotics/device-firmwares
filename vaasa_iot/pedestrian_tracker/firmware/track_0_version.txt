@@ -1,2 +1,2 @@
-1.0.0
+1.0.1
 https://raw.githubusercontent.com/Novia-RDI-XR-Robotics/device-firmwares/main/vaasa_iot/pedestrian_tracker/firmware/track_0_qt_py_esp32_s2.1.0.0.bin
